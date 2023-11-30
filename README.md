@@ -1,4 +1,1 @@
-# kasgeld
-# kasgeld
-# kasgeld
-# kasgeld
+Een project voor school om digitaal kasgeld bij te houden.

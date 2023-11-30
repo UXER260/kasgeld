@@ -209,7 +209,6 @@ def add_account() -> AccountField:
             break
 
         if event == "OK":
-
             if all(values.values()):
                 saldo = values["-AMOUNT-"]
                 account_name = values["-ACCOUNT_NAME-"]

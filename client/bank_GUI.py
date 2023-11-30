@@ -49,7 +49,6 @@ def select(window=None):
         elif event == "-NAME_LIST-":
             if not values["-NAME_LIST-"]:
                 continue  # when clicked and list was emtpy
-            Sound.click.play()
             print(f"clicked `{values['-NAME_LIST-'][0]}` in namelist")
             account = Account.loaded_accounts[values["-NAME_LIST-"][0]]
             status = \
@@ -61,7 +60,6 @@ def select(window=None):
             continue
 
         elif event == "-ADD_USER-":
-            Sound.click.play()
             print(f"pressed `{event}` button")
             status = \
                 add_account()
@@ -88,7 +86,6 @@ def mode_account_overview(account, window=None):
         if event == Sg.WINDOW_CLOSED:
             on_exit()
         elif event == "-BACK_BUTTON-":
-            Sound.click.play()
             return_status = window
             break
         elif event == "-TRANSACTION_TITLE_LIST-":
@@ -99,7 +96,6 @@ def mode_account_overview(account, window=None):
 
             view_transaction(transaction)
         elif event == "-SET_SALDO_BUTTON-":
-            Sound.click.play()
             status = \
                 set_saldo(account)
 
@@ -110,7 +106,6 @@ def mode_account_overview(account, window=None):
                 window["-SALDO-"].update(f"€{account.money}")
 
         elif event == "-OPTIONS_BUTTON-":
-            Sound.click.play()
             status = \
                 options(account)
             if status:
@@ -144,8 +139,6 @@ def set_saldo(account: AccountField):
             break
 
         if event == "OK":
-            Sound.click.play()
-
             if all(values.values()):
                 amount = check_string_valid_float(values["-AMOUNT-"])
                 if amount is False:
@@ -216,7 +209,6 @@ def add_account() -> None | AccountField:
             break
 
         if event == "OK":
-            Sound.click.play()
 
             if all(values.values()):
                 saldo = values["-AMOUNT-"]
@@ -242,7 +234,6 @@ def add_account() -> None | AccountField:
 
                 if not status:
                     if status == "ExistsError":
-                        Sound.error.play()
                         Sg.PopupOK(f"Account `{account_name}` bestaat al", keep_on_top=True, font=config["font"])
 
                 else:
@@ -262,7 +253,6 @@ def rename(account):
         if event == Sg.WINDOW_CLOSED:
             break
         elif event == "OK":
-            Sound.click.play()
             new_name = values["-NEW_ACCOUNT_NAME-"]
             status = \
                 Account.rename_account(account=account, new_name=new_name)
@@ -288,12 +278,10 @@ def options(account):
         if event == Sg.WINDOW_CLOSED:
             break
         elif event == "-DELETE_BUTTON-":
-            Sound.click.play()
             ok = \
                 Sg.PopupOKCancel(f"Weet je zeker dat je het account\n`{account.name}` wilt verwijderen?",
                                  keep_on_top=True, font=config["font"])
             if ok == "OK":
-                Sound.click.play()
                 status = \
                     Account.delete_account(account)
                 if status:
@@ -301,15 +289,11 @@ def options(account):
                                keep_on_top=True)
                     return_status = "AccountDeleted"
                 else:
-                    Sound.error.play()
                     Sg.PopupOK(f"Fout bij verwijderen van account\n`{account.name}`", font=config["font"],
                                keep_on_top=True)
                     return_status = False
-            else:
-                Sound.click.play()
             break
         elif event == "-RENAME_BUTTON-":
-            Sound.click.play()
             status = \
                 rename(account)
             print("renamed", status)
@@ -332,7 +316,6 @@ def main():
 def exception(exc_type, exc_value, exc_traceback):
     traceback.print_tb(exc_traceback)
     print(f"{exc_type.__name__}: {exc_value}")
-    Sound.error.play()
 
     Sg.Popup(
         f'⚠Er is een onverwachtse fout opgetreden, neem AUB contact op met Camillo, als het propleem vaker voorkomt.'

@@ -6,9 +6,6 @@ import sys
 import PySimpleGUI as Sg
 import requests
 from pydantic import BaseModel
-from pygame import mixer
-
-mixer.init()
 
 with open('config.json', 'r') as f:
     config = json.load(f)
@@ -301,13 +298,6 @@ class Window:
                 new_window[key].update(value)
         current_window.close() if current_window is not None else ...
         return new_window
-
-
-class Sound:
-    error = mixer.Sound("assets/sounds/error.mp3")
-    outro = mixer.Sound("assets/sounds/outro.mp3")
-    click = mixer.Sound("assets/sounds/click.mp3")
-    typed = mixer.Sound("assets/sounds/typed.mp3")
 
 
 # todo: add to Camillib

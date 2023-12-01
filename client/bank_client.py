@@ -210,8 +210,8 @@ class Window:
                  Sg.InputText("", font=config['font'], size=(15, 0), key='-AMOUNT-')],
                 [Sg.Text("Geb dag:", font=config["font"]), Sg.Push(),
                  Sg.InputText("", font=config['font'], size=(15, 0), key='-AMOUNT-')],
-                [Sg.Text("(d-m-j)", font=config["smallest_font"],
-                         justification="c", expand_x=True)],
+                #  [Sg.Text("(d-m-j)", font=config["smallest_font"],
+                #         justification="c", expand_x=True)],
                 [Sg.Button('OK', expand_x=True, font=config['font'])]
             ]}
 

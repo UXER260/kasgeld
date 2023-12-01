@@ -24,7 +24,7 @@ if not config["host"]:
 if not config["port"]:
     config["port"] = 8000
 
-ADDRESS = "http://{}:{}".format(config['host'], config['port'])
+ADDRESS = "{}:{}".format(config['host'], config['port'])
 
 
 class TransactionField(BaseModel):

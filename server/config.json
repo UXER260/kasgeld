@@ -1,7 +1,0 @@
-{
-  "host": "0.0.0.0",
-  "port": 8000,
-  "accounts_path": "accounts.json",
-  "month_salary_blacklist": [7, 8],
-  "salary_amount": 5
-}

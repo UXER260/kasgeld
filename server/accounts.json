@@ -1,0 +1,1427 @@
+{
+  "Adam": {
+    "name": "Adam",
+    "money": 6.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 6.0,
+        "description": "Start bedrag van Adam",
+        "saldo_after_transaction": 6.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Amir": {
+    "name": "Amir",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Amir",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Bence": {
+    "name": "Bence",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Bence",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Geronimo": {
+    "name": "Geronimo",
+    "money": 6.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 6.0,
+        "description": "Start bedrag van Geronimo",
+        "saldo_after_transaction": 6.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Hannah": {
+    "name": "Hannah",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Hannah",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Jim": {
+    "name": "Jim",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Jim",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Kiem": {
+    "name": "Kiem",
+    "money": 4.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 4.0,
+        "description": "Start bedrag van Kiem",
+        "saldo_after_transaction": 4.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lo\u00e1": {
+    "name": "Lo\u00e1",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Lo\u00e1",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lumi": {
+    "name": "Lumi",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Lumi",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Maanta": {
+    "name": "Maanta",
+    "money": 4.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 4.0,
+        "description": "Start bedrag van Maanta",
+        "saldo_after_transaction": 4.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Quint": {
+    "name": "Quint",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Quint",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Yule": {
+    "name": "Yule",
+    "money": 5.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 5.0,
+        "description": "Start bedrag van Yule",
+        "saldo_after_transaction": 5.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Berend": {
+    "name": "Berend",
+    "money": 8.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 8.0,
+        "description": "Start bedrag van Berend",
+        "saldo_after_transaction": 8.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Bosque": {
+    "name": "Bosque",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Bosque",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Emme": {
+    "name": "Emme",
+    "money": 6.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 6.0,
+        "description": "Start bedrag van Emme",
+        "saldo_after_transaction": 6.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Freek": {
+    "name": "Freek",
+    "money": 8.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 8.0,
+        "description": "Start bedrag van Freek",
+        "saldo_after_transaction": 8.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Imara": {
+    "name": "Imara",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Imara",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Isra": {
+    "name": "Isra",
+    "money": 9.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 9.0,
+        "description": "Start bedrag van Isra",
+        "saldo_after_transaction": 9.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Jazz": {
+    "name": "Jazz",
+    "money": 9.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 9.0,
+        "description": "Start bedrag van Jazz",
+        "saldo_after_transaction": 9.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Jolie": {
+    "name": "Jolie",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Jolie",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Mia": {
+    "name": "Mia",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Mia",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lo\u00efs": {
+    "name": "Lo\u00efs",
+    "money": 8.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 8.0,
+        "description": "Start bedrag van Lo\u00efs",
+        "saldo_after_transaction": 8.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Nina": {
+    "name": "Nina",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Nina",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Semsy": {
+    "name": "Semsy",
+    "money": 8.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 8.0,
+        "description": "Start bedrag van Semsy",
+        "saldo_after_transaction": 8.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Soul": {
+    "name": "Soul",
+    "money": 7.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 7.0,
+        "description": "Start bedrag van Soul",
+        "saldo_after_transaction": 7.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Tim": {
+    "name": "Tim",
+    "money": 6.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 6.0,
+        "description": "Start bedrag van Tim",
+        "saldo_after_transaction": 6.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Dario": {
+    "name": "Dario",
+    "money": 11.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 11.0,
+        "description": "Start bedrag van Dario",
+        "saldo_after_transaction": 11.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Febe": {
+    "name": "Febe",
+    "money": 10.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 10.0,
+        "description": "Start bedrag van Febe",
+        "saldo_after_transaction": 10.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Hailley": {
+    "name": "Hailley",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Hailley",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Jade": {
+    "name": "Jade",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Jade",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Julo": {
+    "name": "Julo",
+    "money": 10.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 10.0,
+        "description": "Start bedrag van Julo",
+        "saldo_after_transaction": 10.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Katja": {
+    "name": "Katja",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Katja",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Luuk": {
+    "name": "Luuk",
+    "money": 10.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 10.0,
+        "description": "Start bedrag van Luuk",
+        "saldo_after_transaction": 10.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Midas": {
+    "name": "Midas",
+    "money": 11.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 11.0,
+        "description": "Start bedrag van Midas",
+        "saldo_after_transaction": 11.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Pelle": {
+    "name": "Pelle",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Pelle",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Ray\u00e8n": {
+    "name": "Ray\u00e8n",
+    "money": 9.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 9.0,
+        "description": "Start bedrag van Ray\u00e8n",
+        "saldo_after_transaction": 9.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sem": {
+    "name": "Sem",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Sem",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sofie": {
+    "name": "Sofie",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Sofie",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sybren": {
+    "name": "Sybren",
+    "money": 11.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 11.0,
+        "description": "Start bedrag van Sybren",
+        "saldo_after_transaction": 11.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Ammar": {
+    "name": "Ammar",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Ammar",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Dani\u00ebl": {
+    "name": "Dani\u00ebl",
+    "money": 12.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 12.0,
+        "description": "Start bedrag van Dani\u00ebl",
+        "saldo_after_transaction": 12.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Darius": {
+    "name": "Darius",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Darius",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Isaac": {
+    "name": "Isaac",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Isaac",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Kos": {
+    "name": "Kos",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Kos",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lex": {
+    "name": "Lex",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Lex",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Luc": {
+    "name": "Luc",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Luc",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Mateo": {
+    "name": "Mateo",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Mateo",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Max": {
+    "name": "Max",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Max",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Maxim": {
+    "name": "Maxim",
+    "money": 11.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 11.0,
+        "description": "Start bedrag van Maxim",
+        "saldo_after_transaction": 11.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Phinn": {
+    "name": "Phinn",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Phinn",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sadiq": {
+    "name": "Sadiq",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Sadiq",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Tomas": {
+    "name": "Tomas",
+    "money": 11.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 11.0,
+        "description": "Start bedrag van Tomas",
+        "saldo_after_transaction": 11.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Victor": {
+    "name": "Victor",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Victor",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Donna": {
+    "name": "Donna",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Donna",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Guusje": {
+    "name": "Guusje",
+    "money": 17.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 17.0,
+        "description": "Start bedrag van Guusje",
+        "saldo_after_transaction": 17.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Olivier": {
+    "name": "Olivier",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Olivier",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Onno": {
+    "name": "Onno",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Onno",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Rowan": {
+    "name": "Rowan",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Rowan",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sara": {
+    "name": "Sara",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Sara",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sarah": {
+    "name": "Sarah",
+    "money": 15.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 15.0,
+        "description": "Start bedrag van Sarah",
+        "saldo_after_transaction": 15.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sjef": {
+    "name": "Sjef",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Sjef",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Camillo": {
+    "name": "Camillo",
+    "money": 15.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 15.0,
+        "description": "Start bedrag van Camillo",
+        "saldo_after_transaction": 15.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Darya": {
+    "name": "Darya",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Darya",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Emma": {
+    "name": "Emma",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Emma",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "IJsbrand": {
+    "name": "IJsbrand",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van IJsbrand",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Laura": {
+    "name": "Laura",
+    "money": 15.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 15.0,
+        "description": "Start bedrag van Laura",
+        "saldo_after_transaction": 15.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lodewijk": {
+    "name": "Lodewijk",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Lodewijk",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Lucas": {
+    "name": "Lucas",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Lucas",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Roef": {
+    "name": "Roef",
+    "money": 14.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 14.0,
+        "description": "Start bedrag van Roef",
+        "saldo_after_transaction": 14.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Sophie": {
+    "name": "Sophie",
+    "money": 13.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 13.0,
+        "description": "Start bedrag van Sophie",
+        "saldo_after_transaction": 13.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Tijmen": {
+    "name": "Tijmen",
+    "money": 18.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 18.0,
+        "description": "Start bedrag van Tijmen",
+        "saldo_after_transaction": 18.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Toini": {
+    "name": "Toini",
+    "money": 16.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 16.0,
+        "description": "Start bedrag van Toini",
+        "saldo_after_transaction": 16.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Tycho": {
+    "name": "Tycho",
+    "money": 15.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 15.0,
+        "description": "Start bedrag van Tycho",
+        "saldo_after_transaction": 15.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Yasper": {
+    "name": "Yasper",
+    "money": 18.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 18.0,
+        "description": "Start bedrag van Yasper",
+        "saldo_after_transaction": 18.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  },
+  "Ymke": {
+    "name": "Ymke",
+    "money": 15.0,
+    "transactions": [
+      {
+        "title": "start bedrag",
+        "amount": 15.0,
+        "description": "Start bedrag van Ymke",
+        "saldo_after_transaction": 15.0,
+        "date": "2024-01-10",
+        "time": "12:40:10"
+      }
+    ],
+    "savings": [],
+    "last_salary_date": [
+      2023,
+      9
+    ]
+  }
+}
